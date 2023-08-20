@@ -2,9 +2,9 @@
 RewriteEngine on
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteCond %{HTTP_HOST} ^wocheinstitute\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.wocheinstitute\.com$
-RewriteRule ^(.*)$ "https\:\/\/wocheinstitute\.com\/$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^schuleinstitute\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.schuleinstitute\.com$
+RewriteRule ^(.*)$ "https\:\/\/schuleinstitute\.com\/$1" [R=301,L]
 
 # ErrorDocument 404 /404.shtml
 

@@ -8,7 +8,7 @@
                         <div class="footer-logo">
                             <img src="assets/img/Logo-white.png" alt="logo">
                         </div>
-                        <p style="font-weight:bold;font-size:20px">Woche is much more than a private for-profit academy! We are a social movement!</p>
+                        <p style="font-weight:bold;font-size:20px">Schule is much more than a private for-profit academy! We are a social movement!</p>
                     </div>
                     <div class="footer__social">
 
@@ -17,9 +17,9 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/wocheinstitute.academy/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/schuleinstitute.academy/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/wocheinstitute-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/company/schuleinstitute-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.link/zhtobg"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -54,7 +54,7 @@
                     <div class="kilimanjaro_part m-top-15">
                         <h5>Contact Us</h5>
                         <ul class="kilimanjaro_links">
-                            <li><a href="mailto:contact@wocheinstitute.us"><i class="far fa-envelope"></i> contact@wocheinstitute.com</a></li>
+                            <li><a href="mailto:contact@schuleinstitute.us"><i class="far fa-envelope"></i> contact@schuleinstitute.com</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="far fa-clock"></i> Monday - Saturday</a></li>
@@ -71,7 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <p style="font-size: 14px;">Copyright© 2019-2022 Wocheinstitute Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
+                    <p style="font-size: 14px;">Copyright© 2019-2022 Schuleinstitute Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
 
                                 <div class="footer__widget-info">
 
-                                    <p style="font-weight:bold;font-size:20px">Woche is much more than a private for-profit institute! We are a social movement!</p>
+                                    <p style="font-weight:bold;font-size:20px">Schule is much more than a private for-profit institute! We are a social movement!</p>
 
                                     <div class="footer__social">
 
@@ -122,9 +122,9 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/woche.institute/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/schule.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/woche-institute-2020/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/company/schule-institute-2020/"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.me/message/AXEW2N5MI3QXP1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@wocheinstitute.com"><i class="far fa-envelope"></i> contact@wocheinstitute.com</a>
+                                            <a href="mailto:contact@schuleinstitute.com"><i class="far fa-envelope"></i> contact@schuleinstitute.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@wocheinstitute.com"><i class="far fa-envelope"></i> hiring@wocheinstitute.com</a>
+                                            <a href="mailto:hiring@schuleinstitute.com"><i class="far fa-envelope"></i> hiring@schuleinstitute.com</a>
                                         
                                             
                                         </li>
@@ -271,7 +271,7 @@
 
                                 <div class="footer__copyright text-left">
 
-                                  <p> Copyright© 2020-2023 Woche Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
+                                  <p> Copyright© 2020-2023 Schule Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
                                 </div>
 
                             </div>
